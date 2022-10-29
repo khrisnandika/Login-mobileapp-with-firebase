@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218955002130",
+    "project_id": "tsa-minggu-11-c8329",
+    "storage_bucket": "tsa-minggu-11-c8329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218955002130:android:3293c5a3185e10747743cb",
+        "android_client_info": {
+          "package_name": "com.example.tsa_minggu11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218955002130-havqt9fqj0pc4ivp6st7i2fatuj0hr4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1Psf7mKyYuT4T1pFM_2edR4MKA2zWWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218955002130-havqt9fqj0pc4ivp6st7i2fatuj0hr4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
